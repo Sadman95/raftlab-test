@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Home = () => {
+const Header = () => {
     return (
         <div>
             <h1>RaftLab Task-Friend Nearby</h1>
@@ -8,4 +8,4 @@ const Home = () => {
     );
 };
 
-export default Home;
+export default Header;

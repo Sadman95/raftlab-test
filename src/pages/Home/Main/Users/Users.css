@@ -1,0 +1,13 @@
+.users{
+    background-color: rgb(245, 240, 195);
+    border-radius: 20px;
+    padding: 24px;
+}
+.user{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 16px;
+}
